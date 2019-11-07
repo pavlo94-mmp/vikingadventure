@@ -1,0 +1,104 @@
+body{
+    background-image: url("https://w.wallhaven.cc/full/r2/wallhaven-r22lxw.jpg");
+    background-repeat: repeat-y;
+    background-color: #C0C0C0 ;}
+
+p.outset {outline-style: outset;}
+
+ {
+  background-color: #F1F1F1;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 
+
+{text-align: center;
+text-decoration: underline;
+font-family: fantasy;
+    color: aliceblue;}
+
+h2
+
+{text-align: center;
+text-decoration: underline;
+font-family: fantasy;
+color:azure}
+
+
+p
+
+{   text-align: center;
+    font-family: fantasy;
+    color:aliceblue;
+    font-size: 20px;} 
+p2 
+
+{   text-align: center
+    font-family: cursive;
+    color:azure;
+    font-size: 20px
+    }
+
+img {width:200px;
+border: 2px solid black;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.left {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+
+}
+        
+
+
+#top, #bottom, #left, #right {
+	background: black;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 15px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+		
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 15px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
+
+img.resize {width:300px; height: auto;}
+
+
+/* unvisited link */
+a:link {
+  color: red;
+}
+
+/* visited link */
+a:visited {
+  color: rebeccapurple;
+}
+
+/* mouse over link */
+a:hover {
+  color:ghostwhite;
+}
+
+/* selected link */
+a:active {
+  color: cadetblue;
+}
+        
