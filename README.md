@@ -1,2 +1,2 @@
 # vikingadventure
-an HTML and CSS Project for MMP 100 that in Fantasy Nordic Style Choose your own Adventure...
+a choose your own adventure HTML and CSS Project for MMP 100 crafted in Fantasy Nordic Style.
